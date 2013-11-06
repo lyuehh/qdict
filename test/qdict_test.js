@@ -1,6 +1,6 @@
 'use strict';
 
-var qdict = require('../lib/qdict.js');
+var qdict = require('../lib/qdict.js').qdict;
 
 /*
   ======== A Handy Little Nodeunit Reference ========
@@ -30,7 +30,7 @@ exports['qdict'] = {
   'no args': function(test) {
     test.expect(1);
     // tests here
-    test.equal(qdict.awesome(), 'awesome', 'should be awesome.');
+    test.equal(qdict('a'), undefined, 'nothing return, so...');
     test.done();
   }
 };

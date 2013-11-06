@@ -1,6 +1,6 @@
 {
   "name": "qdict",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/qdict.js",
   "description": "dict",
   "homepage": "http://github.com/lyuehh/qdict",
@@ -13,6 +13,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/lyuehh/qdict"
+  },
+  "dependencies": {
+    "request": "*",
+    "underscore": "*"
+  },
+  "bin": {
+    "qdict": "./bin/qdict"
   },
   "licenses": [
     {

@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var qdict = require("../lib/qdict").qdict;
+qdict(process.argv[2]);

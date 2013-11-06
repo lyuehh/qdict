@@ -1,0 +1,411 @@
+{
+    "local": [
+        {
+            "word": "program",
+            "sd": "c47b0729c31024244ad420924cbe9658",
+            "pho": [
+                "'pr&#601;ugr&#230;m"
+            ],
+            "des": [
+                {
+                    "p": "n.",
+                    "d": "程序, 计划, 节目, 纲要, 大纲"
+                },
+                {
+                    "p": "vt.",
+                    "d": "规划, 拟...计划"
+                },
+                {
+                    "p": "vi.",
+                    "d": "安排节目, 编程序"
+                }
+            ],
+            "sen": [
+                {
+                    "p": "vt.",
+                    "s": [
+                        {
+                            "es": "Do you know how to <b>program</b> a computer?",
+                            "cs": "你知道怎样为计算机设计程序吗？"
+                        },
+                        {
+                            "es": "The children were <b>programmed</b> to make the right responses.",
+                            "cs": "孩子们被弄得反应像机器一样。"
+                        }
+                    ]
+                },
+                {
+                    "p": "n.",
+                    "s": [
+                        {
+                            "es": "In this <b>program</b> the teenagers and the adults make the rules together.",
+                            "cs": "在这项计划中，少年和大人们共同制定规章制度。"
+                        },
+                        {
+                            "es": "A <b>program</b> for a play contains a list of the actors&#39; names and other information about the play.",
+                            "cs": "一出剧的节目单包括演员表和与该剧有关的其他情况。"
+                        },
+                        {
+                            "es": "This college offers an excellent art <b>program</b>.",
+                            "cs": "这所大学艺术课程极佳。"
+                        },
+                        {
+                            "es": "What is the <b>program</b> for tomorrow?",
+                            "cs": "明天计划做什么？"
+                        }
+                    ]
+                }
+            ],
+            "mor": [
+                {
+                    "c": "第三人称单数",
+                    "m": "programs, programs"
+                },
+                {
+                    "c": "动词过去式",
+                    "m": "programmed, programed"
+                },
+                {
+                    "c": "过去分词",
+                    "m": "programmed, programed"
+                },
+                {
+                    "c": "现在分词",
+                    "m": "programming, programing"
+                }
+            ],
+            "syn": [
+                {
+                    "p": "v.",
+                    "c": [
+                        "programme",
+                        "plan"
+                    ]
+                },
+                {
+                    "p": "n.",
+                    "c": [
+                        "plan",
+                        "list",
+                        "programme",
+                        "schedule",
+                        "calendar",
+                        "prospectus",
+                        "bill"
+                    ]
+                }
+            ]
+        }
+    ],
+    "netdes": [
+        {
+            "word": "program",
+            "des": [
+                {
+                    "mf": "program",
+                    "d": "程序",
+                    "f": 13619,
+                    "tag": "net",
+                    "s": "单击屏幕左下角&quot;开始&quot;(Start)按钮,可以在&quot;<b>程序</b>&quot;(<b>Program</b>)命令中看到&quot;Founder&quot;<b>程序</b>组下的奥思<b>程序</b>组&quot;Founder Author Tool 6.0 Net Client&quot;,将鼠标移到其上,弹出下级菜单,包括以下几个<b>程序</b>项:单击屏幕左下角&quot;开始&quot;(Start)按钮,",
+                    "url": "http://metc.ujs.edu.cn/my-fz/userguide60_net.doc"
+                },
+                {
+                    "mf": "program",
+                    "d": "计划",
+                    "f": 2284,
+                    "tag": "net",
+                    "s": "该模型方法的建立使得WBS工作更加简单可靠、思路清晰、基于更加可靠的科...1.2与项目有关的类似名词 某些类型的工作与项目相似并有密切联系,它们之间的区别往往不容易界定,现分别说明如下: 1.2.1 <b>计划</b> <b>计划</b>(<b>Program</b>)是一组互相协调管理",
+                    "url": "http://www.ev123.com/servers/doc.php?page=132&type="
+                },
+                {
+                    "mf": "program",
+                    "d": "规划",
+                    "f": 2024,
+                    "tag": "net",
+                    "s": "战略环评就是对政策(Policy)、计划(Plan)、<b>规划</b>(<b>Program</b>)及其替代方案所带来的环境后果和替代方案的环境影响进行系统、全面的分析评价. 战略环境评价通过对政策、计划和<b>规划</b>等的环境影响进行评价,将结果应用于这些战略的综合决策,",
+                    "url": "http://eiafans.com/viewthread.php?statsdata=30||12983&tid=13092"
+                },
+                {
+                    "mf": "program",
+                    "d": "程式",
+                    "f": 948,
+                    "tag": "net",
+                    "s": " 若由父母的A发出的讯息,称为&quot;<b>程式</b>&quot;(<b>Program</b>).  禁止讯息(Injunction)、评语(Attribution)或允许(Permission) 一个人从小经由以上任何一个讯息,而使行为受到约束,无法发挥其力量,即所谓的&quot;禁止讯息&quot;(Injunction). ",
+                    "url": "http://johnlen.spaces.live.com/"
+                },
+                {
+                    "mf": "program",
+                    "d": "abbr. prog; 基本音色",
+                    "f": 1,
+                    "tag": "abbr",
+                    "s": -1,
+                    "url": -1
+                }
+            ],
+            "wf": "1"
+        },
+        {
+            "word": "Program Manager",
+            "des": [
+                {
+                    "mf": "Program Manager",
+                    "d": "程序管理经理",
+                    "f": 2664,
+                    "tag": "net",
+                    "s": "文思创新软件技术有限公司本地化<b>程序管理经理</b>(<b>program manager</b>)职位要求 Job Responsibilities:文思创新软件技术有限公司本地化<b>程序管理经理</b>(<b>program manager</b>)福利待遇上海地区本地化<b>程序管理经理</b>(<b>program manager</b>)职位市场平均工资",
+                    "url": "http://www.xinke8.com/public/jobinfo.jsp?postid=806243&sfg="
+                },
+                {
+                    "mf": "program manager",
+                    "d": "程序管理器",
+                    "f": 467,
+                    "tag": "net",
+                    "s": "资源管理器(Explorer Manager)为其默认SHELL程序,但用户也可以将其改为<b>程序管理器</b>(<b>Program Manager</b>)等其它程序. 如:Shell=Winfile.exe.几乎所有的Windows应用程序都可指定为SHELL程序,但当该程序不能激活其它应用程序的时候,",
+                    "url": "http://blog.xmfish.com/index.php?uid-114318-action-viewspace-itemid-39549"
+                },
+                {
+                    "mf": "program manager",
+                    "d": "项目经理",
+                    "f": 187,
+                    "tag": "net",
+                    "s": "我很奇怪,<b>项目经理</b>(<b>Program Manager</b>)作为开发(Develop)和测试(Test)的协调人,究竟什么时候会将这两者协调起来呢?也就是说,开发人员何时应该将代码提交给测试人员,而测试人员又如何反馈?",
+                    "url": "http://www.realdodo.com/page/7/?CateID=11&page=3"
+                },
+                {
+                    "mf": "Program Manager",
+                    "d": "程序经理",
+                    "f": 4,
+                    "tag": "net",
+                    "s": "<b>程序经理</b>负责协调并&quot;写下&quot;说明 <b>程序经理</b>(<b>Program Manager</b>)应考虑以下问题:这项特性的要点是什么?用户如何使用该特性?这项特性有意义吗?该产品中或微软的其他产品中有类似的特性吗?有哪些问题被遗漏了?组内的交流令人满意吗?",
+                    "url": "http://developeres.spaces.live.com/blog/"
+                }
+            ]
+        },
+        {
+            "word": "to program",
+            "des": [
+                {
+                    "mf": "to program",
+                    "d": "程序编制",
+                    "f": 3137,
+                    "tag": "net",
+                    "s": "program 程序 | <b>to program 程序编制</b> | programmer 程序设计员",
+                    "url": "http://www.china-node.com/bbs/viewthread.php?extra=&ordertype=1&tid=1064"
+                },
+                {
+                    "mf": "to program",
+                    "d": "程序设计",
+                    "f": 49,
+                    "tag": "net",
+                    "s": "data 编制程序 sJR-2.` | <b>to program 程序设计 R1S\\/8- #</b> | programming 自动数据处理 3{K3)`#",
+                    "url": "http://www.mujucad.com/simple/index.php?t14018.html"
+                },
+                {
+                    "mf": "to program",
+                    "d": "编制程序",
+                    "f": 35,
+                    "tag": "net",
+                    "s": "数据 data | <b>编制程序 to program</b> | 程序设计 programming",
+                    "url": "http://030904.net/words/list.asp?id=495"
+                },
+                {
+                    "mf": "to program",
+                    "d": "程序编制sxU中国英语学习网",
+                    "f": 20,
+                    "tag": "net",
+                    "s": "program 程序sxU中国英语学习网 | <b>to program 程序编制sxU中国英语学习网</b> | programmer 程序设计员sxU中国英语学习网",
+                    "url": "http://nz.egoedu.cn/News/mianyasishuangluqu/HTML/yasifenleicihuijisuanjicihui.html"
+                }
+            ]
+        },
+        {
+            "word": "background program",
+            "des": [
+                {
+                    "mf": "background program",
+                    "d": "后台程序",
+                    "f": 856,
+                    "tag": "net",
+                    "s": "backbone router \\/ 主干路由器 | <b>background program \\/ 后台程序</b> | backup domain controller, BDC \\/ 备份域控制器",
+                    "url": "http://www.wangba.com.my/thread-447-1-1.html"
+                },
+                {
+                    "mf": "background program",
+                    "d": "后台程度",
+                    "f": 578,
+                    "tag": "net",
+                    "s": "background processing,后台处理 | <b>background program,后台程度</b> | Backman thermometer,贝克曼温度计",
+                    "url": "http://bbs.ghtt.net/thread-64935-1-7.html"
+                },
+                {
+                    "mf": "background program",
+                    "d": "辅助程序;后台程序",
+                    "f": 86,
+                    "tag": "net",
+                    "s": "background processor 后台处理机 | <b>background program 辅助程序;后台程序</b> | background radiation 本底辐射",
+                    "url": "http://www.hxen.com/word/swhx/2008-07-01/42753.html"
+                },
+                {
+                    "mf": "background program",
+                    "d": "后台程序,后台程度",
+                    "f": 57,
+                    "tag": "net",
+                    "s": "background processing ==&gt; 后台处理 | <b>background program ==&gt; 后台程序,后台程度</b> | background reader ==&gt; 后台读出器",
+                    "url": "http://bgyedu.com/beikao/English/20100321/09020622.html"
+                }
+            ]
+        },
+        {
+            "word": "COMBI PROGRAM",
+            "des": [
+                {
+                    "mf": "COMBI PROGRAM",
+                    "d": "配色组合",
+                    "f": 1551,
+                    "tag": "net",
+                    "s": "color fastness 色牢度 | <b>combi program 配色组合</b> | commodity inspection 商检",
+                    "url": "http://blog.163.com/jin_886@126/blog/static/36799497200801152536406"
+                },
+                {
+                    "mf": "combi program",
+                    "d": "调配颜色组合",
+                    "f": 1,
+                    "tag": "net",
+                    "s": "color fastness 色牢度 | <b>combi program 调配颜色组合</b> | commodity inspection 商检",
+                    "url": "http://www.guandao-pipe.com/guandaoshebei/22715.html"
+                }
+            ]
+        },
+        {
+            "word": "Program arranger",
+            "des": [
+                {
+                    "mf": "Program arranger",
+                    "d": "排人",
+                    "f": 1417,
+                    "tag": "net",
+                    "s": "Proforma 备考报表;预计报表 项目\\/贷款安 | <b>Program arranger 排人</b> | Project approval 立项",
+                    "url": "http://www.88translation.com/pdf/??????.pdf"
+                },
+                {
+                    "mf": "Program arranger",
+                    "d": "项目/贷款安排人",
+                    "f": 94,
+                    "tag": "net",
+                    "s": "Proforma 备考报表;预计报表 | <b>Program arranger 项目\\/贷款安排人</b> | Project approval 立项;专案核准",
+                    "url": "http://www2.pinggu.org/bbs/Archive_view_18_339535.html"
+                },
+                {
+                    "mf": "Program arranger",
+                    "d": "活动行程安排者",
+                    "f": 3,
+                    "tag": "net",
+                    "s": "Proforma 拟制报表 | <b>Program arranger 活动行程安排者</b> | Project approval 专案核准",
+                    "url": "http://liliqilili.blog.163.com/blog/static/704754672008321113745781"
+                }
+            ]
+        }
+    ],
+    "netsen": [
+        {
+            "cs": "我不喜欢这个节目。",
+            "es": "I don`t like this <b>program</b>.",
+            "url": "http://www.dearedu.com/s/06-10/s122169.shtml"
+        },
+        {
+            "cs": "这一计划是很容易使用。",
+            "es": "This <b>program</b> is very easy to use.",
+            "url": "http://www.sacred-magick.com/chinese.php?u=/shop/tarotmagicsoftware.html"
+        },
+        {
+            "cs": "我不喜欢这个节目。",
+            "es": "I don&#39;t like the <b>program</b>.",
+            "url": "http://www.pen123.com/bbs/ShowPost.asp?ThreadID=3633"
+        },
+        {
+            "cs": "我有一个新的软件，我想学习怎样用。",
+            "es": "I have a new <b>program</b>, and I want to learn how to use it.",
+            "url": "http://119.145.136.178/_szb/html/2010-03/01/content_179044878.htm"
+        },
+        {
+            "cs": "这一计划是非常容易使用。",
+            "es": "This <b>program</b> is very easy to use.",
+            "url": "http://xtdownload.com/translate/zh-TW/?/id-12510-v-Screen-Privacy-1.2.htm"
+        },
+        {
+            "cs": "这是我第一次使用这个程序。",
+            "es": "This is the first time I&#39;ve used this <b>program</b>.",
+            "url": "http://www.7139.com/enhy/sm/200707/29246.html"
+        },
+        {
+            "cs": "这是我第一次用这个软件。",
+            "es": "This is the first time I&#39;ve used this <b>program</b>.",
+            "url": "http://wenku.baidu.com/view/7000b568a98271fe910ef90f.html"
+        }
+    ],
+    "dlg": [
+        {
+            "s": "/衣食住行",
+            "t": "有关盗版软件",
+            "c": [
+                {
+                    "n": "A",
+                    "cs": "嘿，比利，今天上午你看起来很沮丧。",
+                    "es": "Hey Billy. You look really frustrated this morning."
+                },
+                {
+                    "n": "B",
+                    "cs": "我觉得我的电脑肯定有病毒。",
+                    "es": "I think my computer must have a virus."
+                },
+                {
+                    "n": "A",
+                    "cs": "你为什么这么说？",
+                    "es": "Why do you say that?"
+                },
+                {
+                    "n": "B",
+                    "cs": "唔，我刚才想装一些新软件，但是现在我的电脑不能正常工作了。",
+                    "es": "Well, I have just tried to install some new software, but now my computer won&#39;t work properly."
+                },
+                {
+                    "n": "A",
+                    "cs": "你为什么不让技术人员帮你往电脑里装新程序？",
+                    "es": "Why didn&#39;t you ask the propeller-heads to put the new <b>program</b> on the PC for you?"
+                },
+                {
+                    "n": "B",
+                    "cs": "因为它与工作没有什么联系。他们会对我发脾气的。",
+                    "es": "Because it&#39;s not really related to work. They will get mad at me."
+                },
+                {
+                    "n": "A",
+                    "cs": "那你从哪儿得到这些软件？",
+                    "es": "So where did you get the software?"
+                },
+                {
+                    "n": "B",
+                    "cs": "它很便宜。我从街上的一些人那里买的。",
+                    "es": "It was really cheap. I bought it from some guy on the street."
+                },
+                {
+                    "n": "A",
+                    "cs": "它可能是盗版软件。",
+                    "es": "It is probably pirated software."
+                },
+                {
+                    "n": "B",
+                    "cs": "你能教我所有有关盗版软件的知识吗，好让我的电脑再次正常工作。",
+                    "es": "Can you teach me all about pirated software so that my computer will work correctly again?"
+                },
+                {
+                    "n": "A",
+                    "cs": "仔细听好了。",
+                    "es": "Listen carefully."
+                }
+            ],
+            "u": 4
+        }
+    ],
+    "lang": "eng"
+}

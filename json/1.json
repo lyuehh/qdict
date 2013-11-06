@@ -1,0 +1,559 @@
+{
+    "local": [
+        {
+            "word": "程序",
+            "sd": "ab8223835f67278d631b3b8f011f6bc8",
+            "pho": [
+                "ch&#233;ng x&#249;"
+            ],
+            "des": [
+                "procedure",
+                "program",
+                "formality",
+                "ground rule",
+                "proceeding",
+                "process",
+                "order",
+                "procedures",
+                "program(me)",
+                "programs",
+                "sequence"
+            ],
+            "des2": [
+                {
+                    "word": "procedure",
+                    "sd": "1df3085264474a7c91374889916c892c",
+                    "pho": [
+                        "pr&#601;'si:d&#658;&#601;"
+                    ],
+                    "des": [
+                        {
+                            "p": "n.",
+                            "d": "程序, 手续, 步骤"
+                        }
+                    ]
+                },
+                {
+                    "word": "program",
+                    "sd": "c47b0729c31024244ad420924cbe9658",
+                    "pho": [
+                        "'pr&#601;ugr&#230;m"
+                    ],
+                    "des": [
+                        {
+                            "p": "n.",
+                            "d": "程序, 计划, 节目, 纲要, 大纲"
+                        },
+                        {
+                            "p": "vt.",
+                            "d": "规划, 拟...计划"
+                        },
+                        {
+                            "p": "vi.",
+                            "d": "安排节目, 编程序"
+                        }
+                    ]
+                },
+                {
+                    "word": "formality",
+                    "sd": "22ba300c74babd87e2d28bb1d2131ad8",
+                    "pho": [
+                        "f&#596;:'m&#230;liti"
+                    ],
+                    "des": [
+                        {
+                            "p": "n.",
+                            "d": "礼节, 拘谨, 正式手续, 程序"
+                        }
+                    ]
+                },
+                {
+                    "word": "ground rule",
+                    "sd": "92a910c7759fbf0f1dab7276ede9982e",
+                    "des": [
+                        {
+                            "d": "程序"
+                        }
+                    ]
+                },
+                {
+                    "word": "proceeding",
+                    "sd": "d500cad4f935af4ee82689c205ee5ada",
+                    "pho": [
+                        "pr&#601;u'si:di&#331;"
+                    ],
+                    "des": [
+                        {
+                            "d": "[变形] proceed的现在分词"
+                        },
+                        {
+                            "p": "n.",
+                            "d": "进行, 行动, 诉讼程序, 事项"
+                        }
+                    ]
+                },
+                {
+                    "word": "process",
+                    "sd": "7b824a119c193384e41b4aa865ef09ad",
+                    "pho": [
+                        "'pr&#596;ses"
+                    ],
+                    "des": [
+                        {
+                            "p": "n.",
+                            "d": "过程, 程序, 进行"
+                        },
+                        {
+                            "p": "vt.",
+                            "d": "加工, 处理, 对...处置, 对...起诉"
+                        },
+                        {
+                            "p": "adj.",
+                            "d": "经加工的, 有特殊光效的"
+                        }
+                    ]
+                },
+                {
+                    "word": "order",
+                    "sd": "2baaf628a3226c912d53efdabd58cfd8",
+                    "pho": [
+                        "'&#596;:d&#601;"
+                    ],
+                    "des": [
+                        {
+                            "p": "n.",
+                            "d": "顺序, 命令, 阶数, 次序, 规则, 整齐, 决议, 阶级"
+                        },
+                        {
+                            "p": "vt.",
+                            "d": "命令, 定购, 整理, 调整"
+                        },
+                        {
+                            "p": "vi.",
+                            "d": "命令, 定货"
+                        }
+                    ]
+                },
+                {
+                    "word": "procedures"
+                },
+                {
+                    "word": "program(me)"
+                },
+                {
+                    "word": "programs",
+                    "sd": "c47b0729c31024244ad420924cbe9658",
+                    "des": [
+                        {
+                            "d": "[变形] program的第三人称单数"
+                        },
+                        {
+                            "p": "n.",
+                            "d": "程序, 计划, 节目, 纲要, 大纲"
+                        },
+                        {
+                            "p": "vt.",
+                            "d": "规划, 拟...计划"
+                        },
+                        {
+                            "p": "vi.",
+                            "d": "安排节目, 编程序"
+                        }
+                    ]
+                },
+                {
+                    "word": "sequence",
+                    "sd": "543c5368ba5c97a12abb0a6fb04fa8ca",
+                    "pho": [
+                        "'si:kw&#601;ns"
+                    ],
+                    "des": [
+                        {
+                            "p": "n.",
+                            "d": "序列, 顺序, 连续, 次序, 继起的事"
+                        },
+                        {
+                            "p": "vt.",
+                            "d": "按顺序排好"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "netdes": [
+        {
+            "word": "程序",
+            "des": [
+                {
+                    "d": "program",
+                    "f": 13620,
+                    "tag": "net",
+                    "s": "单击屏幕左下角&quot;开始&quot;(Start)按钮,可以在&quot;<b>程序</b>&quot;(<b>Program</b>)命令中看到&quot;Founder&quot;<b>程序</b>组下的奥思<b>程序</b>组&quot;Founder Author Tool 6.0 Net Client&quot;,将鼠标移到其上,弹出下级菜单,包括以下几个<b>程序</b>项:单击屏幕左下角&quot;开始&quot;(Start)按钮,",
+                    "url": "http://metc.ujs.edu.cn/my-fz/userguide60_net.doc"
+                },
+                {
+                    "d": "procedure",
+                    "f": 7639,
+                    "tag": "net",
+                    "s": " 这些方法或<b>程序</b>中的大部分构成了质量文件中的作业指导书,缺少这类指导就可能危及,艺杰的电子/电气工程师职业博客(艺杰认证咨询中心) - 企业博客网这里的&quot;方法&quot;(method)有时也称为&quot;<b>程序</b>&quot;(<b>procedure</b>),它们应当记录在文件中,",
+                    "url": "http://www.bokee.net/bloggermodule/blog_viewblog.do?id=1404884"
+                },
+                {
+                    "d": "routine",
+                    "f": 1184,
+                    "tag": "net",
+                    "s": "西蒙把&quot;决策&quot;(decision premise)作为基本分析单位,并用它来解释企业和市场的产生[3],也确实得到了数据支持;后来者则将&quot;<b>程序</b>&quot;(<b>routine</b>)作为基本分析单位(Cyert and March,1963;Nelson and Winter,1982),",
+                    "url": "http://tel.pinggu.org/bbs/b8i1006p1.html"
+                },
+                {
+                    "d": "Applets",
+                    "f": 1075,
+                    "tag": "net",
+                    "s": " 均须得到版权人授权同意后方可进行, 否则视为侵权.3.版权 本软件产品(包括但不限于本软件产品中所含的任何图象、照片、动画、文字和附加<b>程序</b>(<b>applets</b>)、随附的印刷材料、及本软件产品的任何副本的一切所有权和知识产权,",
+                    "url": "http://www.renti18.info/index.php/article/qvodlunlidianying/2010-04-15/8848.html"
+                }
+            ],
+            "wf": "1"
+        },
+        {
+            "word": "退出程序",
+            "des": [
+                {
+                    "d": "exit",
+                    "f": 8504,
+                    "tag": "net",
+                    "s": "打开(Open)输入任何rm/rmvb格式视频文件,自定义显示分辨率(Custom),确认修改(Change),恢复该输入文件的原始显示分辨率(Reset),<b>退出程序</b>(<b>Exit</b>)ps3:只需要运行changedisplay&lt;直接修改rm/rmvb文件的分辨率&gt;软件程序,",
+                    "url": "http://bbs1.greedland.net/topic6_topicId390410_page3_forumId19_sortId0_enterSortId0_forumPage184.html"
+                },
+                {
+                    "d": "quit",
+                    "f": 8483,
+                    "tag": "net",
+                    "s": "pushd - 将当前上下文放推入堆栈.  | <b>quit - 退出程序. </b> | ras - 更改到 `ras&#39; 上下文. ",
+                    "url": "http://jgz.sh.cn/show.aspx?cid=15&id=172"
+                },
+                {
+                    "d": "bye",
+                    "f": 8396,
+                    "tag": "net",
+                    "s": "alias - 添加一个别名 | <b>bye - 退出程序. </b> | commit - 提交在脱机模式中所做的更改. ",
+                    "url": "http://jgz.sh.cn/show.aspx?cid=15&id=172"
+                },
+                {
+                    "d": "Cmd-Q",
+                    "f": 105,
+                    "tag": "net",
+                    "s": "Cmd-Option-H 隐藏其他程序 | <b>Cmd-Q 退出程序</b> | Cmd-Shift-Q 退出所有程序并且注销用户",
+                    "url": "http://bbs.pcbeta.com/viewthread.php?extra=page%3D1&ordertype=1&tid=606667"
+                }
+            ]
+        },
+        {
+            "word": "造字程序",
+            "des": [
+                {
+                    "d": "eudcedit",
+                    "f": 14477,
+                    "tag": "net",
+                    "s": "eventvwr--事件查看器 | <b>eudcedit--造字程序</b> | fsmgmt.msc---共享文件夹管理器",
+                    "url": "http://www.haikoukx.cn/top/view/id-181"
+                },
+                {
+                    "d": "eudcedit.exe",
+                    "f": 9613,
+                    "tag": "net",
+                    "s": "esentutl.exe MS数据库工具 | <b>eudcedit.exe 造字程序</b> | eventvwr.exe 事件查看器",
+                    "url": "http://shark813.csai.cn/user1/30733/archives/2007/20357.html"
+                },
+                {
+                    "d": "eudcedit&#39; TrueType",
+                    "f": 130,
+                    "tag": "net",
+                    "s": "&#39;intl.cpl&#39; 区域的语言选择 | <b>&#39;eudcedit&#39; TrueType造字程序</b> | &#39;control printers&#39; 打印机和传真",
+                    "url": "http://www.basecore.cn/viewthread.php?extra=page%3D1&ordertype=1&tid=6380"
+                },
+                {
+                    "d": "EUDCEDIT.EXE - Private Character Editor TureType",
+                    "f": 87,
+                    "tag": "net",
+                    "s": "DXDIAG.EXE - DirectX Diagnostics DirectX诊断工具 | <b>EUDCEDIT.EXE - Private Character Editor TureType造字程序</b> | EVENTVWR.EXE - Event Viewer 事件查看器",
+                    "url": "http://www.souren.net/?uid-14536-action-viewspace-itemid-428475"
+                }
+            ]
+        },
+        {
+            "word": "通话程序",
+            "des": [
+                {
+                    "d": "TAPIADDR.DLL - API",
+                    "f": 11539,
+                    "tag": "net",
+                    "s": "TAPI.INF - API通话安装信息文件 | <b>TAPIADDR.DLL - API通话程序</b> | TAPIEXE.EXE - API通话组件",
+                    "url": "http://hi.baidu.com/dragon_880315/blog/item/5303e886c93f8b3967096e9f.html"
+                },
+                {
+                    "d": "TAPI.DLL - API",
+                    "f": 11535,
+                    "tag": "net",
+                    "s": "TADA.WAV - 声音文件 | <b>TAPI.DLL - API通话程序</b> | TAPI.INF - API通话安装信息文件",
+                    "url": "http://hi.baidu.com/dragon_880315/blog/item/5303e886c93f8b3967096e9f.html"
+                },
+                {
+                    "d": "voice procedure",
+                    "f": 9,
+                    "tag": "net",
+                    "s": "VitalForceproposal生命力部队建议 | <b>voiceprocedure通话程序</b> | voiceradiocommunications话音无线电通信",
+                    "url": "http://college.tradett.com/info/zymcch/10C11.html"
+                },
+                {
+                    "d": "Aviation communication procedure",
+                    "f": 1,
+                    "tag": "net",
+                    "s": "讲评 Critique | <b>通话程序 Aviation communication procedure</b> | 高空风 Upper air wind",
+                    "url": "http://etd.lib.nsysu.edu.tw/ETD-db/ETD-search-c/getfile?URN=etd-0805105-172051&filename=etd-0805105-172051.pdf"
+                }
+            ]
+        },
+        {
+            "word": "应用程序",
+            "des": [
+                {
+                    "d": "applications",
+                    "f": 6670,
+                    "tag": "net",
+                    "s": "单击&quot;<b>应用程序</b>&quot;(<b>Applications</b>)&gt;&quot;管道&quot;(PIPING). 出现&quot;管道&quot;(PIPING) 菜单. 通过使用&quot;管道&quot;(PIPING) 菜单上的&quot;规范驱动&quot;(Spec Driven) 复选框,&quot;用户驱动&quot;的管道设计模式允许在管道设计过程中随时转换管道组件. ",
+                    "url": "http://www.proe.cn/htmldata/3/8/2008_02/2375_1.html"
+                },
+                {
+                    "d": "application",
+                    "f": 1330,
+                    "tag": "net",
+                    "s": "如果您使用标准<b>应用程序</b>(&quot;<b>应用程序</b>&quot;(<b>Application</b>)&gt;&quot;标准&quot;(Standard))操作组件,并转换相似的焊缝和坡口加工特征(轻焊缝、轻焊坡口加工),则必须同时转换这两种特征(实焊缝、实焊坡口加工). ",
+                    "url": "http://ol.cadhome.cn/proeWildfire 3.0/html/chinese_cn/proe/weld/about_conver_welding_geom_types.htm"
+                },
+                {
+                    "d": "application program",
+                    "f": 1242,
+                    "tag": "net",
+                    "s": "1) <b>应用程序</b>(<b>Application Program</b>)通过TX接口向事务管理器定义一个事务边界,然后向资源管理器提交事务操作;一个Tuxedo服务程序连接RM是通过调用tpopen()函数实现的,该函数只能在服务程序初始化时(tpsvrinit)调用一次. ",
+                    "url": "http://www.bankitman.com/bbs/viewthread.php?extra=page%3D2&tid=992"
+                },
+                {
+                    "d": "exe",
+                    "f": 96,
+                    "tag": "net",
+                    "s": "可独立运行的C/C++<b>应用程序</b>(<b>exe</b>)可以独立于Matlab环境而运行,而MEX文件则不行,它需要Matlab的支持. 还有EXE中可以调用MEX文件. ",
+                    "url": "http://hi.baidu.com/hawel2008/blog/item/fd0aa68892a9ae749e2fb4fd.html"
+                }
+            ]
+        },
+        {
+            "word": "驱动程序",
+            "des": [
+                {
+                    "d": "DRV",
+                    "f": 6161,
+                    "tag": "net",
+                    "s": " 实际上,我们平常做的基于一定硬件的二次开发,一般会先安装<b>驱动程序</b>(<b>DRV</b>)和用户接口的运行库(DLL),然后在此基础上开发出我们的应用程序(APP). <b>DRV</b>、DLL、APP三者分别运行在核心态、核心态/用户态联络带、用户态. 比如买了一块图象采集卡,",
+                    "url": "http://www.gzweix.com/pcbbs/dispbbs.asp?Id=195804&boardid=30"
+                },
+                {
+                    "d": "driver",
+                    "f": 1148,
+                    "tag": "net",
+                    "s": "在 &quot;<b>驱动程序</b>&quot;(<b>Driver</b>) 区域中,点击适当的软件<b>驱动程序</b>. 在 &quot;光盘定购页&quot;(CD-ROM order page) 区域中,点击相应的链接. ",
+                    "url": "http://h10025.www1.hp.com/ewfrf/wc/document?cc=cn&dlc=zh-hans&docname=c00649230&encodeUrl=true&lc=zh-hans&os=219&printable=yes&product=1101938&rule=36070"
+                },
+                {
+                    "d": "drivers",
+                    "f": 38,
+                    "tag": "net",
+                    "s": "操作系统中有很多文件是在我们不知情的情况下自动运行的,这些文件可以分成若干个大类:服务程序(Services)、<b>驱动程序</b>(<b>Drivers</b>)、普通启动程序(Logon)等等. ",
+                    "url": "http://mfshd.cn/html/chat/jiqiao/2009/0720/1725.html"
+                },
+                {
+                    "d": "Virtual Device Driver",
+                    "f": 31,
+                    "tag": "net",
+                    "s": "VxD是虚拟设备<b>驱动程序</b>(<b>Virtual Device Driver</b>)的缩写,中间的x表示某一设备. 它能够无限制地访问所有硬件设备、自由地检测操作系统的数据结构(如描述符和页表)以及访问任何内存位置. ",
+                    "url": "http://www.xfanwen.org/lw/lg/tx/cg/152102.html"
+                }
+            ]
+        }
+    ],
+    "netsen": [
+        {
+            "cs": "同时，它也是一个应用<b>程序</b>。",
+            "es": "At the same time, it is an application.",
+            "url": "http://zhidao.baidu.com/question/140054903.html"
+        },
+        {
+            "cs": "这是我第一次使用这个<b>程序</b>。",
+            "es": "This is the first time I&#39;ve used this program.",
+            "url": "http://www.7139.com/enhy/sm/200707/29246.html"
+        },
+        {
+            "cs": "这是其中的一个标定<b>程序</b>。",
+            "es": "This is one of a calibration procedure.",
+            "url": "http://www.pudn.com/detail.asp?id=218981"
+        },
+        {
+            "cs": "是一个最通用的<b>程序</b>。",
+            "es": "Is one of the most common procedures.",
+            "url": "http://www.dssz.com/10-size-asc/9384.html"
+        },
+        {
+            "cs": "这是一个很简单的<b>程序</b>，这是非常简单的使用！",
+            "es": "This is a very simple program that is very simple to use!",
+            "url": "http://www.online-tech-tips.com/free-software-downloads/extract-text-from-pdf-doc-html-chm-and-rtf-files/zh/"
+        },
+        {
+            "cs": "这是<b>程序</b>的部份。",
+            "es": "It&#39;s part of the system.",
+            "url": "http://inter.fans1.com/bbs/dispbbs.asp?BoardID=76&id=15852"
+        },
+        {
+            "cs": "&quot;我认为这是好的，我们会向他提供一些<b>程序</b>和过程&quot;。",
+            "es": "I think that is good, that we are going to provide him with some procedure and process.",
+            "url": "http://rinf.com/alt-news/war-terrorism/of-confessions-and-torture/101/zh/"
+        }
+    ],
+    "dlg": [
+        {
+            "s": "/衣食住行",
+            "t": "有关盗版软件",
+            "c": [
+                {
+                    "n": "A",
+                    "cs": "嘿，比利，今天上午你看起来很沮丧。",
+                    "es": "Hey Billy. You look really frustrated this morning."
+                },
+                {
+                    "n": "B",
+                    "cs": "我觉得我的电脑肯定有病毒。",
+                    "es": "I think my computer must have a virus."
+                },
+                {
+                    "n": "A",
+                    "cs": "你为什么这么说？",
+                    "es": "Why do you say that?"
+                },
+                {
+                    "n": "B",
+                    "cs": "唔，我刚才想装一些新软件，但是现在我的电脑不能正常工作了。",
+                    "es": "Well, I have just tried to install some new software, but now my computer won&#39;t work properly."
+                },
+                {
+                    "n": "A",
+                    "cs": "你为什么不让技术人员帮你往电脑里装新<b>程序</b>？",
+                    "es": "Why didn&#39;t you ask the propeller-heads to put the new program on the PC for you?"
+                },
+                {
+                    "n": "B",
+                    "cs": "因为它与工作没有什么联系。他们会对我发脾气的。",
+                    "es": "Because it&#39;s not really related to work. They will get mad at me."
+                },
+                {
+                    "n": "A",
+                    "cs": "那你从哪儿得到这些软件？",
+                    "es": "So where did you get the software?"
+                },
+                {
+                    "n": "B",
+                    "cs": "它很便宜。我从街上的一些人那里买的。",
+                    "es": "It was really cheap. I bought it from some guy on the street."
+                },
+                {
+                    "n": "A",
+                    "cs": "它可能是盗版软件。",
+                    "es": "It is probably pirated software."
+                },
+                {
+                    "n": "B",
+                    "cs": "你能教我所有有关盗版软件的知识吗，好让我的电脑再次正常工作。",
+                    "es": "Can you teach me all about pirated software so that my computer will work correctly again?"
+                },
+                {
+                    "n": "A",
+                    "cs": "仔细听好了。",
+                    "es": "Listen carefully."
+                }
+            ],
+            "u": 4
+        },
+        {
+            "s": "/商务外贸",
+            "t": "商业谈判",
+            "c": [
+                {
+                    "n": "A",
+                    "cs": "丽安，洛克，欢迎你们。很高兴再次和你们见面。在座的各位除了这位之外大家都已经见过面了。这位是阿麦德。",
+                    "es": "Ah, Lian and Lok. Welcome. It’s a pleasure to see you here again. Now, you know everyone here, except for Ahmed."
+                },
+                {
+                    "n": "B",
+                    "cs": "你好。",
+                    "es": "How do you do?"
+                },
+                {
+                    "n": "A",
+                    "cs": "你好。",
+                    "es": "How do you do?"
+                },
+                {
+                    "n": "B",
+                    "cs": "很高兴见到您。",
+                    "es": "A pleasure."
+                },
+                {
+                    "n": "A",
+                    "cs": "阿麦德是我们的业务经理。他会旁听这次谈判。  二位需要喝些什么吗？茶还是咖啡？",
+                    "es": "Ahmed is our business manager. He’ll be sitting in. Can we get you anything? Tea or coffee?"
+                },
+                {
+                    "n": "B",
+                    "cs": "不用了。谢谢。",
+                    "es": "No, thank you."
+                },
+                {
+                    "n": "A",
+                    "cs": "谢谢您的好意。",
+                    "es": "We’re fine thanks."
+                },
+                {
+                    "n": "B",
+                    "cs": "那好，各位请坐吧。 我知道各位的时间很宝贵，我们希望这次会晤的时间不要超过一个小时。 会谈结束时二位是否需要我们为您安排计程车呢？",
+                    "es": "All right then. Please, take a seat. I know your time is valuable. We’re hoping that this meeting won’t go longer than an hour. Would you like me to arrange a taxi for you when we finish?"
+                },
+                {
+                    "n": "A",
+                    "cs": "那太好了，谢谢您。",
+                    "es": "Thank you. That would be great."
+                },
+                {
+                    "n": "B",
+                    "cs": "我会记住这件事的。 我这里有一份起草好了的会谈<b>程序</b>，不过如果二位有任何议题需要增减的话，请务必不要拘泥于此。",
+                    "es": "I’ll make a note of it.  I have an agenda drawn up but feel free to change the order or add items as you wish."
+                },
+                {
+                    "n": "A",
+                    "cs": "我觉得这份议程很不错。看来您已经考虑到所有的事项了。",
+                    "es": "This looks fine. You seem to have covered everything."
+                }
+            ],
+            "u": 9
+        }
+    ],
+    "baike": [
+        {
+            "title": "程序",
+            "pic": "",
+            "pw": "0",
+            "ph": "0",
+            "abs": "计算机程序的定义　　程序（港台称之为程式） program(me)或procedure<br>　　chénɡ xù <br>　　概念1.：为进行某活动或过程所规定的途径。<br>　　概念2.程序是由序列组成的，告诉计算机如何完成一个具体的任务。由于现在的计算机还不能理解人类的自然语言，所以还不能用自然语言编写计算机程序。<br>　　<b>指示计算机按解决问题的步骤</b><br>　　实现预期目的而进行操作的一系列语句和指令。一般分为系统程序和应用程序两大类。 计算机中的程序在港澳台地区称为程式。程序就是为使电子计算机执行一个或多个操作，或执行某一任务，按序设计的计算机指令的集合。由程序计数器（Program Counter）控制。程序（program）是为实现特定目标或解决特定问题而用计算机语言编写的命令序列的集合。是用汇编语言、高级语言等开发编制出来的可以运行的文",
+            "link": "http://baike.soso.com/v66045.htm"
+        }
+    ],
+    "lang": "ch"
+}
