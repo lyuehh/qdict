@@ -18,6 +18,9 @@
     "request": "*",
     "underscore": "*"
   },
+  "scripts": {
+    "test": "grunt"
+  },
   "bin": {
     "qdict": "./bin/qdict"
   },
