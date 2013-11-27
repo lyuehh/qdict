@@ -1,6 +1,6 @@
 {
   "name": "qdict",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/qdict.js",
   "description": "dict",
   "homepage": "http://github.com/lyuehh/qdict",

@@ -55,13 +55,10 @@ What is the <b>program</b> for tomorrow?
 明天计划做什么？
 ```
 
-
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
-
 ## Release History
 
-* 0.0.1 2013-11-06
+* 0.0.1 2013-11-06 init
+* 0.0.2 2013-11-27 add check for nothing found
 
 ## License
 Copyright (c) 2013 lyueh. Licensed under the MIT license.
