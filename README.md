@@ -1,3 +1,7 @@
+## NOTICE !!!
+
+Tencent close this site: <http://dict.qq.com>, so this program is not working any more...
+
 # qdict [![Build Status](https://secure.travis-ci.org/lyuehh/qdict.png?branch=master)](http://travis-ci.org/lyuehh/qdict)
 
 translate words by <http://dict.qq.com>
